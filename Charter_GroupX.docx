@@ -1,7 +1,7 @@
 Group 3
 BLAKE DELEO, ANGEL ESTEBAN JASSO, CRISTIAN LOPEZ HERNANDEZ, SID MIDHA, ANDREW ROBERT ZIMMER
 
-1. Availability for meeting expectations
+1. Availability for meeting expectations: 1 hour a week thorugh discord
 
 2. Response time to communication expectations: 
     -Weekdays: 12 hours
@@ -11,11 +11,12 @@ BLAKE DELEO, ANGEL ESTEBAN JASSO, CRISTIAN LOPEZ HERNANDEZ, SID MIDHA, ANDREW RO
 in to github" is not done.):
     -Task is considered adequately completed once it is published on github for all members.
 
-4. Scrum meeting format/frequency and distribution of documentation tasks (meeting
-minutes, updating task board)
-
-5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation
-updates)
+4. Adopting policies (e.g. code style, code check-in steps, documentation
+updates):
+    -Proper indentation
+    -Proper commenting styles
+    -proper nomenclature
+    -proper snake-casing
 
 6. if you adopt such a policy during the initial meeting, put it here
 
